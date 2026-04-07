@@ -30,7 +30,7 @@ Simple and responsive mobile-first design of a QR code component.
 ### Links
 
 - Solution URL: https://github.com/xavifrontendmentor/qr-code-component
-- Live Site URL: https://github.com/xavifrontendmentor/qr-code-component
+- Live Site URL: https://xavifrontendmentor.github.io/qr-code-component/
 
 ## My process
 
